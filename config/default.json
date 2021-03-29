@@ -1,4 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://dbUser:yX7RQX9AQuM58J9F@cluster0.t0uz6.mongodb.net/url_shortener?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
-}
