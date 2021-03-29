@@ -1,0 +1,6 @@
+PATCH http://localhost:5000/api/url/MO8M9S2LP
+Content-Type: application/json
+
+{
+    "newShort": "earn"
+}
